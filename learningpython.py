@@ -1,3 +1,4 @@
-a=1
-b=2
-print(a+b)
+#!/usr/bin/python3
+import nmap
+
+scanner = nmap.PortScanner()
